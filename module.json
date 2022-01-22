@@ -1,0 +1,40 @@
+{
+    "name": "PartyMilestoneProgress",
+    "title": "Party Milestone Progress",
+    "description": "A simple module which allows the GM to indicate milestone progress to the party",
+    "version": "This is auto replaced",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "9",
+    "authors": [
+      {
+        "name": "Lee 'Almighty_gir' Devonald",
+        "url": "https://github.com/Almightygir/PartyMilestoneProgress",
+        "discord": "Almighty_gir#6379"
+      }
+    ],
+    "dependencies": [
+  
+    ],
+    "conflicts": [
+      
+    ],
+    "esmodules": [
+
+    ],
+    "scripts": [
+      "scripts/partymilestoneprogress.js"
+    ],
+    "styles": [],
+    "languages": [],
+    "packs": [],
+    "system": [],
+    "socket": false,
+    "url": "This is auto replaced",
+    "manifest": "This is auto replaced",
+    "download": "This is auto replaced",
+    "protected": false,
+    "coreTranslation": false,
+    "media": []
+  }
